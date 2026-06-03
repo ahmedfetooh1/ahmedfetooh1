@@ -1,4 +1,4 @@
-# Hi there, I'm Ahmed Fetooh (Hamoudi) 👋
+# Hi there, I'm Ahmed Fetooh 👋
 ### Software Engineer | Full Stack Web Developer
 
 <p align="left">
